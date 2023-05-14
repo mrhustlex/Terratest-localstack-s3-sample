@@ -9,7 +9,8 @@ Before you begin, you should make sure that you have the following tools install
 Terraform
 LocalStack
 Terratest
+tflocal
 
 ##Run Test
-1. in <cd ./test>, you can run <go test -v> for testing on terratest
-2. in terraform folder, it defines a sample terraform folder so that you can test with <tflocal>
+1. in '''cd ./test''', you can run '''go test -v''' for testing on terratest
+2. in terraform folder, it defines a sample terraform folder so that you can test with '''tflocal'''
